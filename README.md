@@ -3,7 +3,7 @@
 <p style="color:#CBD5E1;">Dernière mise à jour : Juin 2026</p>
 
 ## <span style="color:#FF8C00;">1. Respect total de votre vie privée</span>
-L'application **Synchro** ne collecte, ne vend, ni ne partage **aucune donnée personnelle**. Nous n'avons aucun serveur externe : toutes vos notes restent exclusivement les vôtres.
+L'application **Synchro-Note** ne collecte, ne vend, ni ne partage **aucune donnée personnelle**. Nous n'avons aucun serveur externe : toutes vos notes restent exclusivement les vôtres.
 
 ## <span style="color:#FF8C00;">2. Thèmes visuels et dynamiques (Fonctionnement hors ligne)</span>
 L'application intègre des thèmes visuels et des illustrations dynamiques (liés aux saisons, aux mois et aux fêtes calendaires) au niveau du calendrier. Ces éléments graphiques sont entièrement embarqués et gérés localement sur votre appareil. Ils s'activent de manière autonome sans aucune connexion à un serveur externe et ne collectent aucune information.
