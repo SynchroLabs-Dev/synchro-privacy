@@ -1,4 +1,4 @@
-# <span style="color:#FF8C00;">Politique de Confidentialité — Synchro</span>
+# <span style="color:#FF8C00;">Politique de Confidentialité — Synchro-Note</span>
 
 <p style="color:#CBD5E1;">Dernière mise à jour : Juin 2026</p>
 
